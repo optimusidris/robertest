@@ -1,0 +1,24 @@
+body{
+    background-color: aquamarine;
+    margin: 20px 0;
+    font-family: san-serif;
+}
+
+.wrapper{
+    width: 800px;
+    margin: 0 auto;
+    background-color: beige;
+    border-radius: 10px;
+}
+
+header{
+    padding: 50px;
+}
+
+header > #logo{
+    font-size: 2em;
+} 
+
+.mary{
+    float: right
+}
